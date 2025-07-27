@@ -15,7 +15,6 @@ A Streamlit application that helps dental clinic owners analyze their competitio
 ```
 Assisstant/
 ├── main.py                 # Main entry point
-├── app.py                  # Original monolithic app (can be removed)
 ├── requirements.txt        # Python dependencies
 ├── README.md              # This file
 ├── config/
