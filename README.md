@@ -4,11 +4,11 @@ A Streamlit application that helps dental clinic owners analyze their competitio
 
 ## Features
 
-- 🔍 **Competitor Search**: Find top dental clinics in your area
-- 🧠 **AI Marketing Insights**: Get personalized marketing suggestions using Groq LLM
-- 🎯 **SEO Keywords**: Discover popular keywords for dental marketing
-- 💡 **USPs**: Get unique selling points to differentiate your clinic
-- 📈 **Marketing Strategies**: Receive tailored marketing strategies and catchy slogans
+- **Competitor Search**: Find top dental clinics in your area
+- **AI Marketing Insights**: Get personalized marketing suggestions using Groq LLM
+- **SEO Keywords**: Discover popular keywords for dental marketing
+- **USPs**: Get unique selling points to differentiate your clinic
+- **Marketing Strategies**: Receive tailored marketing strategies and catchy slogans
 
 ## Project Structure
 
@@ -16,7 +16,7 @@ A Streamlit application that helps dental clinic owners analyze their competitio
 Assisstant/
 ├── main.py                 # Main entry point
 ├── requirements.txt        # Python dependencies
-├── README.md              # This file
+├── README.md              
 ├── config/
 │   ├── __init__.py
 │   └── settings.py        # Configuration and API keys
@@ -71,6 +71,3 @@ Then:
 - `beautifulsoup4`: HTML parsing for web scraping
 - `lxml`: XML/HTML parser
 
-## License
-
-This project is for educational and commercial use.
